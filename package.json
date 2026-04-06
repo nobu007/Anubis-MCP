@@ -75,7 +75,8 @@
     "publish:safe": "npm run version:resolve && npm run build && npm test && npm publish",
     "cleanup:generated": "tsx scripts/cleanup-generated-files.ts",
     "backup:prisma": "mkdir -p backup && cp -r generated/prisma backup/",
-    "restore:prisma": "cp -r backup/prisma generated/"
+    "restore:prisma": "cp -r backup/prisma generated/",
+    "sec:allow-scripts": "npx @lavamoat/allow-scripts auto"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.4",
