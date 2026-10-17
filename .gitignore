@@ -23,3 +23,7 @@ yarn-error.log*
 /build-anubis
 /.anubis
 /coverage
+
+# auto-added by instructions/10_storage/100_audit_storage_policy.md
+.audit/development_direction.yml
+
