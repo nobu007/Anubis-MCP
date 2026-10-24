@@ -26,6 +26,13 @@
 </div>
 
 ---
+
+## Project direction
+
+- [Purpose and long-term direction](PURPOSE.md)
+- [Milestones and bounded work](docs/MILESTONES.md)
+- [Dot worker instructions](DOT.md)
+
 ## **QUICK START**
 
 ### **Option 1: NPX (Recommended)**
