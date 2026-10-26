@@ -10,7 +10,7 @@ Acceptance: `npm ci`（または `npm install`）→ `npx prisma generate` → `
 Evidence: pending
 Status: planned
 依存: なし（最初の項目）
-次の作業: 緑化を確認したら MS-002 に着手可能。
+次の作業: 緑化を確認したら MS-002 に着手可能。2026-10-26 停止時評価（[ORDER.md](../ORDER.md)）により、前回 bounded-improvement run（run-6512b52c16f8・理由 unknown）の後の再開項目として本項が指定されている。
 
 ## MS-002: step-query.service.ts のリポジトリパターン TODO 解消
 Outcome: `src/domains/workflow-rules/services/step-query.service.ts` のリポジトリ利用 TODO が解消され、既存 MCP ツール応答の互換性がテストで担保される。

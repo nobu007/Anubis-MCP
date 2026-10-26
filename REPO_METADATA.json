@@ -3,15 +3,15 @@
   "long_term": {
     "summary": "AIエージェント向けワークフロー誘導MCPサーバーとして、テスト緑基盤の上で既知負債を解消し計画を整理し続ける。詳細はORDER.md（正本）とdocs/MILESTONES.md（実行用分解）。",
     "source": "ORDER.md",
-    "source_hash": "git-blob:ecaddff7b37ad78cb613f367f59cd5457f623eaf",
-    "updated_at": "2026-10-25"
+    "source_hash": "git-blob:a0929cea7892bc70b79dba263e439213863d94f8",
+    "updated_at": "2026-10-26"
   },
   "short_term": {
     "summary": "MS-001: npm ci → npx prisma generate → npm test を緑で通し、検証ベースラインを確立する。約30分で検証可能な最初の一手。",
     "source": "docs/MILESTONES.md#ms-001",
-    "source_hash": "git-blob:24348f2e4c702d735ecf83070d4fe830aaae4350",
-    "updated_at": "2026-10-25",
+    "source_hash": "git-blob:f93976c06e7580640abec2808caaae47b1484ffe",
+    "updated_at": "2026-10-26",
     "status": "not_started"
   },
-  "verified_at": "2026-10-24T20:48:17Z"
+  "verified_at": "2026-10-26T13:01:30Z"
 }
